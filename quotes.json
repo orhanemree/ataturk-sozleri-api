@@ -1,0 +1,734 @@
+[
+    {
+        "id": 1,
+        "quote": "Beni görmek demek mutlaka yüzümü görmek demek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu yeterlidir."
+    },
+    {
+        "id": 2,
+        "quote": "Benim naçiz vücudum elbet bir gün toprak olacaktır, ancak Türkiye Cumhuriyeti ilelebet payidar kalacaktır."
+    },
+    {
+        "id": 3,
+        "quote": "Gençler cesaretimizi takviye ve idame eden sizlersiniz. Siz, almakta olduğunuz terbiye ve irfan ile insanlık ve medeniyetin, vatan sevgisinin, fikir hürriyetinin en kıymetli timsali olacaksınız. Yükselen yeni nesil, istikbal sizsiniz. Cumhuriyeti biz kurduk, onu yükseltecek ve yaşatacak sizsiniz."
+    },
+    {
+        "id": 4,
+        "quote": "Dünyada her şey için, medeniyet için, hayat için, başarı için, en hakiki mürşit bilimdir, fendir."
+    },
+    {
+        "id": 5,
+        "quote": "Bilim ve fen nerede ise oradan alacağız ve her ulus kişisinin kafasına koyacağız. Bilim ve fen için kayıt ve şart yokur."
+    },
+    {
+        "id": 6,
+        "quote": "Bir ulusun asker ordusu ne kadar güçlü olursa olsun, kazandığı zafer ne kadar yüce olursa olsun, bir ulus ilim ordusuna sahip değilse, savaş meydanlarında kazanılmış zaferlerin sonu olacaktır. Bu nedenle bir an önce büyük, mükemmel bir ilim ordusuna sahip olma zorunluluğu vardır."
+    },
+    {
+        "id": 7,
+        "quote": "Ben, manevi miras olarak hiçbir nass-ı katı, hiçbir dogma, hiçbir donmuş ve kalıplaşmış kural bırakmıyorum. Benim manevi mirasım, bilim ve akıldır. Benden sonra beni benimsemek isteyenler, bu temel mihver üzerinde akıl ve ilmin rehberliğini kabul ederlerse manevî mirasçılarım olurlar."
+    },
+    {
+        "id": 8,
+        "quote": "Eğer bir gün benim sözlerim bilimle ters düşerse bilimi seçin."
+    },
+    {
+        "id": 9,
+        "quote": "Biz cahil dediğimiz zaman, mektepte okumamış olanları kastetmiyoruz. Kastettiğimiz ilim, hakikati bilmektir. Yoksa okumuş olanlardan en büyük cahiller çıktığı gibi, hiç okumak bilmeyenlerden de hakikati gören gerçek alimler çıkabilir."
+    },
+    {
+        "id": 10,
+        "quote": "Bir millet ki resim yapmaz, bir millet ki heykel yapmaz, bir millet ki tekniğin gerektirdiği şeyleri yapmaz, itiraf etmeli ki o milletin ilerleme yolunda yeri yoktur."
+    },
+    {
+        "id": 11,
+        "quote": "Bir millet eğitim ordusuna sahip olmadıkça, savaş meydanlarında ne kadar parlak zaferler elde ederse etsin, o zaferlerin kalıcı sonuçlar vermesi ancak eğitim ordusuyla mümkündür."
+    },
+    {
+        "id": 12,
+        "quote": "Gençliği yetiştiriniz. Onlara ilim ve irfanın müspet fikirlerini veriniz. Geleceğin aydınlığına onlarla kavuşacaksınız."
+    },
+    {
+        "id": 13,
+        "quote": "Hürriyet olmayan bir memlekette ölüm ve çöküş vardır. Her ilerleyişin ve kurtuluşun anası hürriyettir."
+    },
+    {
+        "id": 14,
+        "quote": "Millî hedef belli olmuştur. Ona ulaşacak yolları bulmak zor değildir. Önemli olan, çetin olan o yollar üzerinde çalışmaktır. Denebilir ki hiçbir şeye muhtaç değiliz. Yalnız tek bir şeye çok ihtiyacımız vardır: Çalışkan olmak. Toplumsal hastalıklarımızı incelersek temel olarak bundan başka, bundan önemli bir hastalık keşfedemeyiz; hastalık budur. O halde ilk işimiz bu hastalığı esaslı bir şekilde tedavi etmektir. Milleti çalışkan yapmaktır. Servet ve onun doğal sonucu olan refah ve mutluluk, yalnız ve ancak çalışkanların hakkıdır."
+    },
+    {
+        "id": 15,
+        "quote": "Çalışmak demek, boşuna yorulmak, terlemek değildir. Zamanın gereklerine göre bilim ve teknik ve her türlü uygar buluşlardan azami derecede istifade etmek zorunludur."
+    },
+    {
+        "id": 16,
+        "quote": "Uygarlık yolunda başarı yenileşmeye bağlıdır. Sosyal hayatta, iktisadi hayatta, ilim ve fen sahasında başarılı olmak için yegane gelişme ve ilerleme yolu budur."
+    },
+    {
+        "id": 17,
+        "quote": "Kadınlarımız için asıl mücadele alanı, asıl zafer kazanılması gereken alan, biçim ve kılıkta başarıdan çok, ışıkla, bilgi ve kültürle, gerçek faziletle süslenip donanmaktır. Ben muhterem hanımlarımızın Avrupa kadınlarının aşağısında kalmayacak, aksine pek çok yönden onların üstüne çıkacak şekilde ışıkla, bilgi ve kültürle donanacaklarından asla şüphe etmeyen ve buna kesinlikle emin olanlardanım."
+    },
+    {
+        "id": 18,
+        "quote": "Bütün ilerlemeler, insan fikrinin eseridir. Fikri harekete getirmek, birinci işimiz olmalıdır. Bir kere millet benliğine hakim olsun ve düşünebilsin, yeter! Başlangıçta hatalı düşünse de, az zaman sonra bu hatayı düzeltebilir. Fikir bir kere faaliyete başladı mı, her şey yavaş yavaş düzene girer ve düzelir. Fikrin serbest hareketi ise, ancak bireyin düşündüğünü serbest olarak söylemek, yazmak ve verdiği karara göre her türlü girişimde bulunmak serbestisine sahip olmakla mümkündür."
+    },
+    {
+        "id": 19,
+        "quote": "Bir ulus, sımsıkı birbirine bağlı olmayı bildikçe yeryüzünde onu dağıtabilecek bir güç düşünülemez."
+    },
+    {
+        "id": 20,
+        "quote": "İki Mustafa Kemal vardır: Biri ben, et ve kemik, geçici Mustafa Kemal... İkinci Mustafa Kemal, onu ben kelimesiyle ifade edemem; o, ben değil, bizdir! O, memleketin her köşesinde yeni fikir, yeni hayat ve büyük ülkü için uğraşan aydın ve savaşçı bir topluluktur. Ben, onların rüyasını temsil ediyorum. Benim teşebbüslerim, onların özlemini çektikleri şeyleri tatmin içindir. O Mustafa Kemal sizsiniz, hepinizsiniz. Geçici olmayan, yaşaması ve başarılı olması gereken Mustafa Kemal odur!"
+    },
+    {
+        "id": 21,
+        "quote": "Ahmaklar, memleketi Amerikan mandasına, İngiliz himayesine terk etmekle kurtulacak sanıyorlar. Kendi rahatlarını temin etmek için bir vatanı ve tarih boyunca devam edip gelen Türk istiklalini feda ediyorlar!"
+    },
+    {
+        "id": 22,
+        "quote": "Akıl ve mantığın halledemeyeceği mesele yoktur."
+    },
+    {
+        "id": 23,
+        "quote": "Amerika, Avrupa ve bütün uygarlık dünyası bilmelidir ki Türkiye halkı her uygar ve kabiliyetli millet gibi kayıtsız şartsız hür ve müstakil yaşamaya kesin karar vermiştir. Bu haklı kararı bozmaya yönelik her kuvvet, Türkiye'nin ebedi düşmanı kalır."
+    },
+    {
+        "id": 24,
+        "quote": "Anadolu, en büyük hazinedir."
+    },
+    {
+        "id": 25,
+        "quote": "Arkadaşlarımız ve milletin bütün bireyleri gibi, millî davamızda benim de emeğim geçmiş ise, bu çalışmada iş yapma kuvveti ve başarı varsa, bunu bana mal etmeyiniz. Ancak ve ancak bütün milletin manevî kişiliğine mal ediniz. Ben milletin bu yüksek manevî kişiliği içinde bir önemsiz birey olmakla mutluyum. Efendiler, millet bütünüyle manevî bir kişilik halinde ve bir birleşmiş kitle şeklinde belirdi ve bu yüce birliği koruyarak ona düşman olanları ortadan kaldırdı."
+    },
+    {
+        "id": 26,
+        "quote": "Artık Türkiye, din ve şeriat oyunlarına sahne olmaktan çok yüksektir. Bu gibi oyuncular varsa, kendilerine başka taraflarda sahne arasınlar."
+    },
+    {
+        "id": 27,
+        "quote": "Asla şüphem yoktur ki, Türklüğün unutulmuş medeni vasfı ve büyük medeni kabiliyeti, bundan sonraki inkişafı ile âtinin yüksek medeniyet ufkunda yeni bir güneş gibi doğacaktır. Bu söylediklerim hakikat olduğu gün, senden ve bütün medeni beşeriyetten dileğim şudur: Beni hatırlayınız."
+    },
+    {
+        "id": 28,
+        "quote": "Az zamanda çok ve büyük işler yaptık. Bu işlerin en büyüğü, temeli, Türk kahramanlığı ve yüksek Türk kültürü olan Türkiye Cumhuriyeti'dir."
+    },
+    {
+        "id": 29,
+        "quote": "Ben, 1919 yılı mayısı içinde Samsun'a çıktığım gün elimde maddi hiçbir kuvvet yoktu. Yalnız büyük Türk milletinin soyluluğundan doğan ve benim vicdanımı dolduran yüksek ve manevi bir kuvvet vardı. İşte ben bu ulusal kuvvete, bu Türk milletine güvenerek işe başladım."
+    },
+    {
+        "id": 30,
+        "quote": "Ben manevî miras olarak hiçbir nas-ı katı, hiçbir dogma, hiçbir donmuş, kalıplaşmış kural bırakmıyorum. Benim manevî mirasım ilim ve akıldır. Benden sonra beni benimsemek isteyenler, bu temel mihver üzerinde akıl ve ilmin rehberliğini kabul ederlerse manevî mirasçılarım olurlar."
+    },
+    {
+        "id": 31,
+        "quote": "Ben onları affederim, çünkü kalbim vardır; onlar beni affetmezler, çünkü kalpsizdirler."
+    },
+    {
+        "id": 32,
+        "quote": "Ben, sadece evlenmek için evlenmek istemiyorum. Vatanımızda yeni bir aile yaşamı yaratmak için önce kendim örnek olmalıyım. Kadın böyle umacı gibi kalır mı?"
+    },
+    {
+        "id": 33,
+        "quote": "Ben, savaşlarda dahi düşmanın üzerinde bir kin duymam; yalnız askerlik kurallarının uygulanmasını düşünürüm."
+    },
+    {
+        "id": 34,
+        "quote": "Beni görmek demek mutlaka yüzümü görmek değildir. Benim fikirlerimi, benim duygularımı anlıyorsanız ve hissediyorsanız bu kafidir."
+    },
+    {
+        "id": 35,
+        "quote": "Benim adım çok içki içer diye çıkmıştır. Bunu siz de duymuş olacaksınızdır. Filhakika ben öteden beri içerim, içkiyi severim. Fakat istediğim zaman bunu keserim. Vazifem esnasında bir damlasını ağzıma koymam. Vatan işlerine içki karıştırmam. İçki ve vazife iki ayrı şeydir. Birbirine tesiri dokunacak yerde vazifeyi elbette keyfe tercih etmeli, içkiyi behemehâl kesmeli."
+    },
+    {
+        "id": 36,
+        "quote": "Benim bir dinim yok ve bazen bütün dinlerin denizin dibini boylamasını istiyorum. Hükûmetini ayakta tutmak için dini kullanmaya gerek duyanlar zayıf yöneticilerdir. Âdetâ halkı bir kapana kıstırırlar. Benim halkım demokrasi ilkelerini, gerçeğin emirlerini ve bilimin öğretilerini öğrenecektir. Batıl inançlardan vazgeçilmelidir. İsteyen istediği gibi ibadet edebilir. Herkes kendi vicdanının sesini dinler. Ama bu davranış ne sağduyulu mantıkla çelişmeli ne de başkalarının özgürlüğüne karşı çıkmasına yol açmalıdır."
+    },
+    {
+        "id": 37,
+        "quote": "Benim gözümde hiçbir şey yoktur; ben yalnız liyakat âşığıyım."
+    },
+    {
+        "id": 38,
+        "quote": "Benim naçiz vücudum bir gün elbet toprak olacaktır fakat Türkiye Cumhuriyeti sonsuza dek yaşayacaktır. Ve Türk milleti güven ve mutluluğun kefili olan ilkelerle, uygarlık yolunda, tereddütsüz yürümeye devam edecektir."
+    },
+    {
+        "id": 39,
+        "quote": "Benim Türk milletine, Türk cemiyetine, Türklüğün istikbaline ait ödevlerim bitmemiştir, siz onları tamamlayacaksınız. Siz de sizden sonrakilere benim sözümü tekrar ediniz."
+    },
+    {
+        "id": 40,
+        "quote": "Bir hükûmet iyi midir, fena mıdır? Hangi hükûmetin iyi veya fena olduğunu anlamak için, \"Hükûmetten gaye nedir?\" bunu düşünmek lazımdır. Hükûmetin iki hedefi vardır. Biri milletin korunması, ikincisi milletin refahını temin etmek. Bu iki şeyi temin eden hükûmet iyi, edemeyen fenadır."
+    },
+    {
+        "id": 41,
+        "quote": "Bir kelime ile ifade etmek gerekirse, diyebiliriz ki yeni Türkiye Devleti bir halk devletidir; halkın devletidir. Mazi kurumları ise bir şahıs devleti idi, şahıslar devleti idi."
+    },
+    {
+        "id": 42,
+        "quote": "Bir toplumun eksikliği ne olabilir? Ulusu ulus yapan, ilerleten ve geliştiren güçler vardır: Düşünce güçleri, sosyal güçler. Düşünceler, anlamsız, yararsız, akla sığmaz saçmalarla dolu olursa o düşünceler hastalıklıdır. Bir de toplumsal yaşayış, akıldan mantıktan uzak, yararsız, zararlı birtakım görenek ve geleneklerle dopdolu olursa yaşama sayılamaz. İlerleyemez, gelişemez, inmeliler gibi olduğu yerde bocalar kalır."
+    },
+    {
+        "id": 43,
+        "quote": "Birbirimize daima gerçeği söyleyeceğiz. Felaket ve saadet getirsin, iyi ve fena olsun, daima gerçekten ayrılmayacağız."
+    },
+    {
+        "id": 44,
+        "quote": "Bir ulusun ilerlemesi o ulusun gençlerinin alacakları eğitime bağlıdır."
+    },
+    {
+        "id": 45,
+        "quote": "Bir zamanlar gelir, beni unutmak veya unutturmak isteyen gayretler belirebilir. Fikirlerimi inkâr edenler ve beni yerenler çıkabilir. Hatta bunlar, benim yakın bildiğim ve inandıklarım arasından bile olabilir. Fakat, ektiğimiz tohumlar o kadar özlü ve kuvvetlidirler ki bu fikirler, Hint’ten, Mısır’dan döner dolaşır gene gelir, verimli sonuçları kalpleri doldurur."
+    },
+    {
+        "id": 46,
+        "quote": "Bir işin ahlâki bir kıymeti olması, ayrı ayrı insanlardan daha ulvî bir membadan sadır olmasıdır.\nO memba cemiyettir; millettir.\nFilhakika, ahlâkıyet, hususî fertlerden ayrı ve bunların fevkinde, ancak içtimaî, millî olabilir. Milletin içtimaî nizam ve sükûnu hal ve istikbalde refahı, saadeti, selâmeti ve masuniyeti, medeniyette terakki ve tealisi için insanlardan, her hususta alâka, gayret, nefsin feragatini icap ettiği zaman seve seve nefsinin fedasını talep eden millî ahlâktır. Mükemmel bir millette millî ahlâkiyet icapları, o millet efradı tarafından adeta muhakeme edilmeksizin vicdanî, hissî bir saikle yapılır. En büyük millî his, millî heyecan işte budur.\nMillet analarının, millet babalarının, millet hocalarının ve millet büyüklerinin; evde, mektepte, orduda, fabrikada, her yerde ve her işte millet çocuklarına, milletin her ferdine bıkmaksızın ve mütemadiyen verecekleri millî terbiyenin gayesi işte bu yüksek millî hissi sağlamlaştırmak olmalıdır.\nAhlâkın millî, içtimaî olduğunu söylemek ve maşerî vicdanın bir ifadesidir demek, aynı zamanda ahlâkın mukaddes sıfatını da tanımaktır. Ahlâk mukaddestir; çünkü aynı kıymette eşi yoktur ve başka hiçbir nevi kıymetle ölçülemez.\nAhlâk mukaddestir; çünkü, en büyük ahlâki şeniyet sahibi bir faile racidir. O fail, yalnız ve ancak cemiyettir. Ondan başka bir fail yoktur. Ülûhiyette, timsalî bir şekilde düşünülmüş cemiyet dahi mündemiçtir. Çünkü, vicdanlarımız üzerinde müessir olan ruhî hayat, cemiyetin efradı arasındaki amel ve aksülâmellerden teşekkül eder. Filhakika cemiyet, kesif bir fikrî ve ahlâki faaliyet mihrakıdır."
+    },
+    {
+        "id": 47,
+        "quote": "Biz cahil dediğimiz zaman, mektepte okumamış olanları kastetmiyoruz. Kastettiğimiz ilim, hakikati bilmektir."
+    },
+    {
+        "id": 48,
+        "quote": "Biz, her vasıtadan yalnız ve ancak bir tek temel görüşe dayanarak yararlanırız. O görüş şudur: Türk milletini medenî dünyada lâyık olduğu mevkie yükseltmek, Türkiye Cumhuriyeti’ni sarsılmaz temelleri üzerinde her gün daha çok güçlendirmek … ve bunun için de istibdat fikrini öldürmek…"
+    },
+    {
+        "id": 49,
+        "quote": "Biz ne demokratlara ne de sosyalistlere benzemeyiz. Tarz-ı idaremiz ne demokrat hükûmetlerin ne de sosyalistlerinkine muadildir. Biz kendi kendimize benzemekle müftehiriz."
+    },
+    {
+        "id": 50,
+        "quote": "Bizce Türkiye Cumhuriyeti anlamınca kadın, bütün Türk tarihinde olduğu gibi bugün de en saygın düzeyde, her şeyin üstünde yüksek ve şerefli bir varlıktır."
+    },
+    {
+        "id": 51,
+        "quote": "Bizi yanlış yola sevk eden kötü yaradılışlılar, çok kere din perdesine bürünmüşler, saf ve temiz halkımızı hep din kuralları sözleriyle aldatagelmişlerdir. Tarihimizi okuyunuz, dinleyiniz... Görürsünüz ki milleti mahveden, esir eden, harap eden fenalıklar hep din örtüsü altındaki küfür ve kötülükten gelmiştir."
+    },
+    {
+        "id": 52,
+        "quote": "Bizim devlet idaresindeki ana programımız, Cumhuriyet Halk Partisi programıdır. Bunun kapsadığı prensipler, idarede ve siyasette bizi aydınlatıcı ana hatlardır. Fakat bu prensipleri, gökten indiği sanılan kitapların dogmalarıyla asla bir tutmamalıdır. Biz, ilhamlarımızı, gökten ve gaipten değil, doğrudan doğruya hayattan almış bulunuyoruz. Bizim yolumuzu çizen; içinde yaşadığımız yurt, bağrından çıktığımız Türk milleti ve bir de milletler tarihinin bin bir fâcia ve ıstırap kaydeden yapraklarından çıkardığımız netîcelerdir."
+    },
+    {
+        "id": 53,
+        "quote": "Bizim milletimiz esasen demokrattır. Kültürünün, geleneklerinin en derin maziye ait evreleri bunu doğrular."
+    },
+    {
+        "id": 54,
+        "quote": "Bizim münevverler buna çalışmalı. Neden Anadolu'ya gelip uğraşmazlar! Neden milletle doğrudan doğruya temasta bulunmazlar! Memleketi gezmeli, milleti tanımalı. Eksiği nedir, görüp göstermeli. Milleti sevmek böyle olur. Yoksa lafla muhabbet fayda vermez!"
+    },
+    {
+        "id": 55,
+        "quote": "Bugün tutsaklık acıları içinde inleyen birçok dindaşlarımız vardır. Bunlar için de, kendi ortamlarında bağımsızlıklarını kazanmaları ve tam bir bağımsızlıkla ülkelerinin gönenç ve yükselmesine çaba harcamaları en büyük dileklerimizdendir."
+    },
+    {
+        "id": 56,
+        "quote": "Bugünkü hükûmetimiz, devlet örgütümüz doğrudan doğruya milletin kendi kendine, kendiliğinden yaptığı bir devlet örgütü ve hükûmettir ki onun ismi Cumhuriyettir. Artık hükûmet ile millet arasında mazideki ayrılık kalmamıştır. Hükûmet millettir ve millet hükûmettir. Artık hükûmet ve hükûmet mensupları kendilerinin milletten ayrı olmadıklarını ve milletin efendi olduğunu tamamen anlamışlardır."
+    },
+    {
+        "id": 57,
+        "quote": "Bugünün ihtiyaçlarına uygun kanun yapmak ve onu iyi uygulamak refah ve ilerleme vasıtalarının en mühimlerindendir."
+    },
+    {
+        "id": 58,
+        "quote": "Bunca asırlarda olduğu gibi, bugün dahi, milletlerin bilgisizliğinden ve taassubundan istifade ederek binbir türlü siyası ve şahsı maksat ve menfaat temini için dini alet ve vasıta olarak kullanmak teşebbüsünde bulunanların, içeride ve dışarıda varlığı, bizi bu konuda söz söylemekten ne yazık ki henüz uzak bulundurmuyor."
+    },
+    {
+        "id": 59,
+        "quote": "Bütün dünya bilsin ki benim için bir taraflılık vardır: Cumhuriyet taraftarlığı, fikri ve sosyal inkılap taraftarlığı. Bu noktada, yeni Türkiye topluluğunda bir ferdi, hariç düşünmek istemiyorum."
+    },
+    {
+        "id": 60,
+        "quote": "Bütün görevlerin üstünde bizim de bir vicdanî görevimiz vardı; o da, herkesin sudan birtakım görevler yaptığı sırada yaşamımızı, varlığımızı bu milletin bağrına sokarak, onlarla beraber düşman karşısında uğraşmak olmuştur!"
+    },
+    {
+        "id": 61,
+        "quote": "Bütün ilerlemeler, insan fikrinin eseridir. Fikri harekete getirmek, birinci işimiz olmalıdır. Bir kere millet benliğine hakim olsun ve düşünebilsin, yeter! Başlangıçta hatalı düşünse de, az zaman sonra bu hatayı düzeltebilir. Fikir bir kere faaliyete başladı mı, her şey yavaş yavaş düzene girer ve düzelir. Fikrin serbest hareketi ise, ancak bireyin düşündüğünü serbest olarak söylemek, yazmak ve verdiği karara göre her türlü girişimde bulunmak serbestisine sahip olmakla mümkündür."
+    },
+    {
+        "id": 62,
+        "quote": "Büyük devletler kuran ecdadımız büyük ve geniş kapsamlı medeniyetlere de sahip olmuştur. Bunu aramak, tetkik etmek Türklüğe ve cihana bildirmek bizim için bir borçtur."
+    },
+    {
+        "id": 63,
+        "quote": "Büyüklük odur ki hiç kimseye iltifat etmeyeceksin, hiç kimseyi aldatmayacaksın, memleket için gerçek ülkü neyse onu görecek, o hedefe yürüyeceksin. Herkes senin aleyhinde bulunacaktır. Herkes seni yolundan çevirmeye çalışacaktır. İşte sen bunda karşı koyuşları yok eden olacaksın. Önüne sayılamayacak güçlükler yığacaklardır. Kendini büyük değil küçük, zayıf, araçsız, hiç sayarak, kimseden yardım gelmeyeceğine inanarak bu güçlükleri aşacaksın. Ondan sonra sana \"büyüksün\" derlerse, bunu diyenlere de güleceksin."
+    },
+    {
+        "id": 64,
+        "quote": "Cumhuriyet, ahlâkî fazilete dayanan bir idaredir. Cumhuriyet fazilettir. Sultanlık, korku ve tehdide dayanan bir idaredir. Cumhuriyet idaresi faziletli ve namuslu insanlar yetiştirir. Sultanlık, korkuya ve tehdide dayandığı için korkak, alçak, sefil ve rezil insanlar yetiştirir. Aradaki fark bunlardan ibarettir."
+    },
+    {
+        "id": 65,
+        "quote": "Cumhuriyet idaresini, Cumhuriyetten söz etmeksizin milli hâkimiyet esasları içinde her an Cumhuriyet'e doğru yürüyen şekilde toplamaya çalışıyorduk."
+    },
+    {
+        "id": 66,
+        "quote": "Cumhuriyet rejimi demek demokrasi sistemi ile devlet şekli demektir. Biz Cumhuriyeti kurduk, Cumhuriyet 10 yaşını doldururken demokrasinin bütün icaplarını sırası geldikçe koymalıdır."
+    },
+    {
+        "id": 67,
+        "quote": "Cumhuriyet, yeni ve sağlam esaslarıyla, Türk milletini emin ve sağlam bir gelecek yoluna koyduğu kadar, asıl fikirlerde ve ruhlarda yarattığı güvenlik itibariyle, büsbütün yeni bir hayatın müjdecisi olmuştur."
+    },
+    {
+        "id": 68,
+        "quote": "Cumhuriyetçilik ve toplumsal inkılâp, lâiklik ve yenilikseverlik, Türk'ün öz malı ve özelliği hâline geldiğini görmek, benim için büyük bir bahtiyarlık olacaktır."
+    },
+    {
+        "id": 69,
+        "quote": "Cumhuriyetimiz öyle zannolunduğu gibi zayıf değildir. Cumhuriyet bedava da kazanılmış değildir. Bunu elde etmek için kan döktük. Her tarafta kırmızı kanımızı akıttık. İcabında müesseselerimizi müdafaa için lazım olanı yapmaya hazırız."
+    },
+    {
+        "id": 70,
+        "quote": "Çağdaş bir cumhuriyet kurmak demek, milletin insanca yaşamasını bilmesi, insanca yaşamanın neye bağlı olduğunu öğrenmesi demektir."
+    },
+    {
+        "id": 71,
+        "quote": "Çocukken fakirdim. İki kuruş elime geçince bunun bir kuruşunu kitaba verirdim. Eğer böyle olmasaydı bu yaptıklarımın hiçbirini yapamazdım."
+    },
+    {
+        "id": 72,
+        "quote": "Çocukluğumdan beri bir huyum vardır. Oturduğum evde ne kız kardeş, ne de ahbap ile beraber bulunmaktan hoşlanmazdım. Ben, yalnız ve bağımsız bulunmayı çocukluktan çıktığım zamandan itibaren daima tercih etmiş ve sürekli olarak öyle yaşamışımdır. Tuhaf bir halim daha var; ne ana -babam çok erken ölmüş-, ne kardeş, ne de en yakın akrabamın kendi düşünüş biçimi ve görüşlerine göre bana şu veya bu öğütte bulunmasına katlanmazdım. Aile arasında yaşayanlar çok iyi bilirler ki sağdan soldan, pek saf ve samimî uyarmalardan korunamazlar. Bu durum karşısında iki davranış şeklinden birini seçmek zorunludur; ya uymak yahut bütün bu uyarma ve öğütleri hiçe saymak. Bence ikisi de doğru değildir. Uymak nasıl olur, en aşağı benimle yirmi, yirmi beş yaş farkı olan anamızın uyarmalarına uyma geçmişe dönme demek değil midir? İsyan etmek, erdemine, iyi niyetine, yüksek kadınlığına inandığım anamın kalbini, görüşlerini alt üst etmektir. Bunu da doğru bulmam."
+    },
+    {
+        "id": 73,
+        "quote": "Çocukluk ne güzel… Çocuklar ne sevimli, ne tatlı yaratıklar değil mi? En çok hoşuma giden halleri nedir bilir misiniz? İkiyüzlülük bilmemeleri, bütün istek ve duygularını, içlerinden geldiği gibi açıklamaları…"
+    },
+    {
+        "id": 74,
+        "quote": "Çoğu ailelerde öteden beri çok kötü bir alışkanlık var; çocuklarını söyletmez ve dinlemezler. Zavallılar söze karışınca \"Sen büyüklerin konuşmasına karışma!\" der, sustururlar. Ne kadar yanlış, hatta zararlı bir hareket! Halbuki tam tersine, çocukları serbestçe konuşmaya, düşündüklerini, duyduklarını olduğu gibi ifade etmeye özendirmelidir; böylece hem hatalarını düzeltmeye imkân bulunur, hem de ileride yalancı ve ikiyüzlü olmalarının önüne geçilmiş olur. Kısacası çocuklarımızı artık, düşüncelerini hiç çekinmeden açıkça ifade etmeye, içten inandıklarını savunmaya, buna karşılık da başkalarının samimî düşüncelerine saygı beslemeye alıştırmalıyız. Aynı zamanda onların temiz yüreklerinde yurt, ulus, aile ve yurttaş sevgisiyle beraber doğruya, iyiye ve güzel şeylere karşı sevgi ve ilgi uyandırmaya çalışmalıdır. Bence bunlar, çocuk eğitiminde, ana kucağından en yüksek eğitim ocaklarına kadar her yerde, her zaman üzerinde durulacak önemli noktalardır. Ancak bu yolladır ki, çocuklarımız memlekete yararlı birer vatandaş ve eksiksiz birer insan olurlar."
+    },
+    {
+        "id": 75,
+        "quote": "Demokrasi ilkesi, egemenliğin millette olduğunu, başka yerde olamayacağını gerektirir. Bu suretle demokrasi ilkesi, siyasi kuvvetin, egemenliğin kaynağına ve meşruiyetine temas etmektedir. Demokrasinin tam ve en belirgin hükûmet şekli Cumhuriyettir."
+    },
+    {
+        "id": 76,
+        "quote": "Devlet idaresinde bütün kanunlar, nizamlar, ilmin muasır medeniyete temin ettiği esas ve şekillere, dünya ihtiyaçlarına göre yapılır ve tatbik edilir. Din telakkisi vicdani olduğundan cumhuriyet, din fikirlerini devlet ve dünya işlerinden ve siyasetten ayrı tutmayı milletimizin muasır terakkisinde başlıca muvaffakiyet görür."
+    },
+    {
+        "id": 77,
+        "quote": "Devrimin ereğini (hedefini) kavramış olanlar, onu daima koruyup gözetme gücünde olacaklardır."
+    },
+    {
+        "id": 78,
+        "quote": "Diktatör, insanların iradesini baskı altına alan ve onları itaate mecbur bırakan kimsedir. Ben, kalpleri kırmak değil, kalpleri kazanmak isterim."
+    },
+    {
+        "id": 79,
+        "quote": "Dünya yüzünde gördüğümüz her şey kadının eseridir."
+    },
+    {
+        "id": 80,
+        "quote": "Dünyada her şey için, maddiyat için, maneviyat için, hayat için, başarı için en hakikî yol gösterici ilimdir, fendir. İlim ve fennin dışında yol gösterici aramak gaflettir, cahilliktir, doğru yoldan sapmaktır. Yalnız ilmin ve fennin yaşadığımız her dakikadaki safhalarının gelişimini anlamak ve ilerlemeleri zamanında takip etmek şarttır."
+    },
+    {
+        "id": 81,
+        "quote": "Dünyanın hiçbir yerinde, hiçbir milletinde, Anadolu köylü kadınının üstünde kadın mesaisi zikretmek imkânı yoktur ve dünyada hiçbir milletin kadını \"Ben Anadolu kadınından daha fazla çalıştım, milletimi kurtuluşa ve zafere götürmekte Anadolu kadını kadar emek verdim\" diyemez."
+    },
+    {
+        "id": 82,
+        "quote": "Efendiler! Bir memleketin, bir memleket halkının düşmandan zarar görmesi acıdır. Fakat kendi ırkından büyük tanıdığı ve başlarında taşıdığı insanlardan hayırsızlık, kötülük görmesi ondan daha acıdır. Bu kalp ve vicdanlar için beklenmez bir yaradır."
+    },
+    {
+        "id": 83,
+        "quote": "Efendiler, bizim milletimiz vatanı için, hürriyeti ve hakimiyeti için fedakar bir halktır; bunu ispat etti."
+    },
+    {
+        "id": 84,
+        "quote": "Efendiler, içtimai hayatın mebdei, ukdesi aile hayatıdır. Aile, izaha hacet yoktur ki, kadın ve erkekten mürekkeptir. Kadınlarımız hakkında, erkekler hakkında söz söylediğim kadar fazla izahatta bulunmayacağım. Fakat bu mevcudiyeti ulviyeyi bilhassa huzurlarında müsamaha ile geçemem. Müsaade buyurulursa bir iki kelime söyleyeceğim ve siz ne söylemek istediğimi suhuletle anlayacaksınız. Esnayı seyahatimde köylerde değil bilhassa kasaba ve şehirlerde kadın arkadaşlarımızın yüzlerini ve gözlerini çok kesif ve itina ile kapamakta olduklarını gördüm. Bilhassa bu sıcak mevsimde bu tarz kendileri için mutlaka mucibi azab ve ızdırap olduğunu tahmin ediyorum. Erkek arkadaşlar, bu biraz bizim hodbinliğimizin eseridir. Çok afif ve çok dikkatli olduğumuzun icabıdır. Fakat muhterem arkadaşlar, kadınlarımız da, bizim gibi müdrik ve mütefekkir insanlardır. Onlara mukaddesatı ahlakiyeyi kuvvetle telkin etmek için, milli ahlakımızı anlatmak ve onların dimağını nur ile, nezahetle teçhis etmek esası üzerinde bulunduktan sonra fazla hodbinliğe lüzum kalmaz. Onlar yüzlerini cihana göstersinler. Ve gözleriyle cihanı dikkatle görebilsinler. Bunda korkulacak bir şey yoktur."
+    },
+    {
+        "id": 85,
+        "quote": "Efendiler ve ey millet! İyi biliniz ki Türkiye Cumhuriyeti; şeyhler, dervişler, müritler, mensuplar memleketi olamaz. En doğru ve en hakiki tarikat, tarikatımedeniyedir. Medeniyetin emrettiğini ve talep ettiğini yapmak, insan olmak için kâfidir."
+    },
+    {
+        "id": 86,
+        "quote": "Efendiler, Türkiye Cumhuriyeti'ni tesis eden Türk halkı medenidir. Tarihinde medenidir, hakikatta medenidir. Fakat ben sizin öz kardeşiniz, arkadaşınız, babanız gibi haber vermeye mecburum ki, medeniyim diyen Türkiye Cumhuriyeti halkı; fikriyle zihniyle medeni olduğunu isbat ve izhar etmek mecburiyetindedir. Medeniyim diyen Türkiye Cumhuriyeti halkı aile hayatiyle, yaşayış tarzıyle medeni olduğunu göstermek mecburiyetindedir. Velhasıl medeniyim diyen Türkiye'nin, hakikaten medeni olan halkı baştan aşağıya vaz-ı haricisiyle dahi medeni ve mütekamil insanlar olduğunu fiilen göstermeğe mecburdur. Bu son sözlerimi vazih ifade etmeliyim ki, bütün memleket ve cihan ne demek istediğimi suhuletle anlasın. Bu izahımı heyeti aliyenize, heyeti umumiyeye bir sual tevcihiyle yapmak istiyorum. Bizim kıyafetimiz milli midir? (Hayır, hayır sedaları) Bizim kıyafetimiz medeni ve beynelmilel midir? (Hayır, hayır sedaları) Size iştirak ediyorum. Hayır, hayır, hayır. Tabirimi mazur görünüz. Altı kaval üstü şişhane diye ifade olunabilecek bir kıyafet ne millidir ve ne de beynelmileldir. O halde kıyafetsiz bir millet? Bu olur mu arkadaşlar? Böyle tavsif olunmağa razı mısınız arkadaşlar? (Hayır, hayır, katiyen sesleri) Çok kıymetli bir cevheri çamurla sıvıyarak enzori aleme göstermekte mana var mıdır? Ve bu çamurun içinde cevher gizlidir. Fakat anlamıyorsunuz demek münasip midir? Cevheri gösterebilmek için çamuru atmak elzemdir ve tabiidir. Cevherin muhafazası için bir mahfaza yapmak lazımsa onu altından veya platinden yapmak icap etmez mi? Bu kadar açık bir hakikat karşısında tereddüt caiz midir? Bizi tereddüde sevk edenler varsa onların humku belahatine hükmetmekle hala mı tereddüt edeceğiz? Arkadaşlar, Turan kıyafetini araştırıp ihya eylemeğe mahal yoktur. Medeni ve beynelmilel kıyafet bizim için çok cevherli, milletimiz için layık bir kıyafettir. Onu iktisa edeceğiz. Ayakta iskarpin veya fotin, bacakta pantolon, yelek, gömlek, kravat, yakalık, ceket ve bittabi bunların mütemmimi olmak üzere başta siperi şemsli serpuş. Bunu çok açık söylemek isterim: Bu serpuşun ismine şapka denir. Redingot gibi, bonjur gibi, smokin gibi, frak gibi… İşte şapkamız. Buna caiz değil diyenler vardır. Onlara diyeyim ki, çok gafilsiniz ve çok cahilsiniz. Ve onlara sormak isterim: Yunan serpuşu olan fesi giymek caiz olur da, şapkayı giymek neden olmaz ve yine onlara, bütün millete hatırlatmak isterim ki, Bizans papazlarının ve Yahudi hahamlarının kisve-i mahsusası olan cübbeyi ne vakit, ne için ve nasıl giydiler?"
+    },
+    {
+        "id": 87,
+        "quote": "Eğer bir millet büyükse kendisini tanımakla daha büyük olur."
+    },
+    {
+        "id": 88,
+        "quote": "Eğitim ve öğretimde uygulanacak yol, bilgiyi insan için fazla bir süs, bir zorbalık vasıtası, yahut medeni bir zevkten ziyade maddi hayatta muvaffak olmayı temin eden pratik ve kullanılması mümkün bir cihaz haline getirmektir."
+    },
+    {
+        "id": 89,
+        "quote": "Egemenlik kayıtsız ve şartsız milletindir."
+    },
+    {
+        "id": 90,
+        "quote": "Emperyalizm ölüme mahkûmdur."
+    },
+    {
+        "id": 91,
+        "quote": "En iyi fertler kendinden ziyade mensup olduğu toplumu düşünen, onun varlığının ve mutluluğunun korunmasına hayatını veren insanlardır."
+    },
+    {
+        "id": 92,
+        "quote": "Erkek kız çocuklarımızın, aynı şekilde öğrenim görebilmesi mühimdir. Memleket evladı, iktisadi hayatta faal, etkili ve başarılı olacak şekilde donatılmalıdır. Milli ahlakımızla, medeni esaslarla ve hür fikirlerle yetiştirilmelidir. Baskı ve korkudan doğan sözde ahlak, bir erdem olmadığı gibi, güvenilmezdir."
+    },
+    {
+        "id": 93,
+        "quote": "Ey kahraman Türk kadını, sen yerde sürünmeye değil, omuzlar üzerinde göklere yükselmeye layıksın."
+    },
+    {
+        "id": 94,
+        "quote": "Geçen zamana nispetle, daha çok çalışacağız. Daha az zamanda, daha büyük işler başaracağız. Bunda da muvaffak olacağımıza şüphem yoktur. Çünkü, Türk milletinin karakteri yüksektir. Türk milleti çalışkandır. Türk milleti zekidir. Çünkü Türk milleti milli birlik ve beraberlikle güçlükleri yenmesini bilmiştir."
+    },
+    {
+        "id": 95,
+        "quote": "Gençlerimiz ve aydınlarımız ne için yürüdüklerini ve ne yapacaklarını evvela kendi dimağlarında iyice kararlaştırmalı, onları halk tarafından iyice sindirimi ve kabulü mümkün bir hale getirmeli, onları ancak ondan sonra ortaya atmalıdır."
+    },
+    {
+        "id": 96,
+        "quote": "Gençliği yetiştiriniz. Onlara ilim ve irfanın müspet fikirlerini veriniz. Geleceğin aydınlığına onlarla kavuşacaksınız. Hür fikirler uygulamaya geçtiği vakit, Türk milleti yükselecektir."
+    },
+    {
+        "id": 97,
+        "quote": "Gerçeği konuşmaktan korkmayınız."
+    },
+    {
+        "id": 98,
+        "quote": "Güzel sanatlarda başarı, bütün inkılapların başarıldığının en kesin delilidir. Bunda başarılı olamayan milletlere ne yazıktır. Onlar, bütün başarılarına rağmen uygarlık alanında yüksek insanlık sıfatıyla tanınmaktan daima mahrum kalacaklardır."
+    },
+    {
+        "id": 99,
+        "quote": "Hakikaten memlekete hizmet etmek isteyenlerin kalbi açık olmalıdır; açık söylemelidir. Millet ile, milleti sevk ve idare edenler çok açık görüşmelidirler. Olan şeyler ve yapılacak şeyler olduğu gibi ifade olunmalıdır. Yoksa safsatalar ile milleti aldatmak, onu birbirine düşürmek demektir. Kuralımız, daima millete karşı gerçekleri ifade olmalıdır. Milleti aydınlatma, bu demektir."
+    },
+    {
+        "id": 100,
+        "quote": "Hâkimiyet ve saltanat hiç kimse tarafından hiç kimseye, ilim icabıdır diye, müzakere ile, münakaşa ile verilmez. Hâkimiyet, saltanat kuvvetle, kudretle ve zorla alınır. Osmanoğulları, zorla Türk milletinin hâkimiyet ve saltanatına, vâzıü’l-yed olmuşlardı ve bu tasallutlarını altı asırdan beri idâme eylemişlerdi. Şimdi de Türk milleti bu mütecâvizlerin hadlerini ihtar ederek, hâkimiyet ve saltanatını, isyan ederek kendi eline, bi’l-fiil almış bulunuyor. Bu bir emr-i vâkidir. Mevzu-i bahis olan, millete saltanatını, hâkimiyetini bırakacak mıyız, bırakmayacak mıyız? Meselesi değildir. Mesele zaten emr-i vâki olmuş bir hakikati ifadeden ibarettir. Bu, behemehâl, olacaktır. Burada ictimâ edenler, meclis ve herkes meseleyi tabii görürse, fikrimce muvâfık olur. Aksi takdirde, yine hakikat usûlü dairesinde ifade olunacaktır. Fakat ihtimal bazı kafalar kesilecektir."
+    },
+    {
+        "id": 101,
+        "quote": "Her ferdinin son nefesi, Türk ulusunun nefesinin sönmeyeceğini, onun ebedî olduğunu göstermelidir. Yüksel Türk! Senin için yükseklik sınırı yoktur. İşte parola budur."
+    },
+    {
+        "id": 102,
+        "quote": "Her ne suretle olursa olsun, hizmet edenler milletten büyük mükafatlar bekliyorsa katiyen doğru bir harekette bulunmuş olmazlar. Milletten çok şey istememeliyiz. Hizmet edenler, namus vazifelerini yerine getirmiş olmaktan başka bir şey yapmamışlardır."
+    },
+    {
+        "id": 103,
+        "quote": "Her şeyden evvel bilgisizliği ortadan kaldırmak lâzımdır. Bu sebeple maarif programımızın, maarif siyasetimizin temel taşı, bilgisizliğin giderilmesidir. Bu giderilmedikçe yerimizdeyiz. Yerinde duran bir şey ise geriye gidiyor demektir."
+    },
+    {
+        "id": 104,
+        "quote": "Her şeye rağmen muhakkak bir nura doğru yürümekteyiz. Bende bu imanı yaşatan kuvvet, yalnız, aziz memleket ve milletim hakkındaki payansız muhabbetim değil, bugünün karanlıkları, ahlâksızlıkları, şarlatanlıkları içinde sırf vatan ve hakikat aşkı ile ziya serpmeğe ve aramağa çalışan bir gençlik gördüğümdür. İşte, azizim Ruşen Eşref Bey, sizi, ben, bu mübarek hizbin tabiî azasından görüyorum. Gün geçtikçe daha mühim hizmetlerinize intizar ediyorum. Bugünden ziyade yarınların şükran ve sâpâşına namzet olan sizi bugünden tanıyabilmekle memnunum."
+    },
+    {
+        "id": 105,
+        "quote": "Hiçbir tutarlı kanıta dayanmayan birtakım geleneklerin, inanışların korunmasında ısrar eden milletlerin ilerlemesi çok güç olur; belki de hiç olmaz. İlerlemede geleneklerin kayıt ve şartlarını aşamayan milletler, hayatı, akla ve gerçeklere uygun olarak göremez."
+    },
+    {
+        "id": 106,
+        "quote": "Hiçbir zaman hatırınızdan çıkmasın ki, Cumhuriyet sizden fikri hür, vicdanı hür, irfanı hür nesiller ister."
+    },
+    {
+        "id": 107,
+        "quote": "Hükûmetin varlığının sebebi, memleketin asayişini, milletin huzur ve rahatını temin etmektir. Bütün memlekette gerçek bir asayiş hakim olmalıdır. Millet büyük bir huzur ve güven içinde müsterih bulunmalıdır. Memleketimizin herhangi bir köşesinde halkın güvenini, devletin bütünlük ve asayişini bozmaya kalkışanlar devletin bütün kuvvetlerini karşılarında bulmalıdırlar."
+    },
+    {
+        "id": 108,
+        "quote": "Hürriyet olmayan bir memlekette ölüm ve çöküntü vardır. Her ilerlemenin ve kurtuluşun anası hürriyettir."
+    },
+    {
+        "id": 109,
+        "quote": "Hürriyet ve bağımsızlık benim karakterimdir. Ben milletimin ve büyük ecdadımın en kıymetli mirasından olan bağımsızlık aşkı ile yaratılmış bir adamım."
+    },
+    {
+        "id": 110,
+        "quote": "İleri hükûmetçiliğin şiarı, halkı, kudretine olduğu kadar şefkatine de samimiyetle inandırabilmesidir."
+    },
+    {
+        "id": 111,
+        "quote": "İleri hükûmetçiliğin ayırıcı özelliği halkı, kudretine olduğu kadar şefkatine de samimiyetle inandırabilmesidir. Büyük küçük bütün cumhuriyet memurlarında bu zihniyetin en geniş ölçüde gelişmesine önem vermek, çok yerinde olur."
+    },
+    {
+        "id": 112,
+        "quote": "İnkılabın hedefini kavramış olanlar, daima onu korumaya muktedir olacaklardır."
+    },
+    {
+        "id": 113,
+        "quote": "İnkılabın temellerini her gün derinleştirmek, desteklemek lazımdır. Birbirimizi aldatmayalım, uygar dünya çok ileridedir. Buna yetişmek, o uygarlık dairesine dahil olmak mecburiyetindeyiz."
+    },
+    {
+        "id": 114,
+        "quote": "İnsanlar, toplumsal hayatta haklardan ve vazifelerden örülmüş bir ağ içinde düşünülebilir. İnsanlar, insan kaldıkça bu ağdan çıkamazlar."
+    },
+    {
+        "id": 115,
+        "quote": "İnsanların hayatına, faaliyetine hakim olan kuvvet yaratıcılık ve icat kabiliyetidir. İcadı ve yaratıcılığı yapabilen insanların ise, mutlaka kültürlü olmalarının şart olduğu tebarüz etmiştir."
+    },
+    {
+        "id": 116,
+        "quote": "İnsanlığın bütününün refahı, açlık ve baskının yerine geçmelidir. Dünya vatandaşları, kıskançlık, açgözlülük ve kinden uzaklaşacak şekilde eğitilmelidir."
+    },
+    {
+        "id": 117,
+        "quote": "İşte bu serseriler, bir iş yapmak hülyasına kapılarak görünüşte memleketimize ve milletimize yararlı olmak amacıyla TKP diye bir parti kurmuşlar. Bu partinin başında da Mustafa Suphi ve benzerleri var. Bunlar, doğrudan doğruya vatanseverlik duyguları ile gerçek millî duygular ile değil, benim kanımca, belki kendilerine para veren, kendilerini koruyan ve bunları koruyan Moskova'daki prensip sahiplerine yaranmak için birtakım serserice girişimde bulunmuşlardır. Bunların yaptıkları girişim, Rus Bolşevizmi'ni çeşitli kanallardan memleket içine sokmak olmuştur."
+    },
+    {
+        "id": 118,
+        "quote": "Kadınlarımız ilim ve fen sahibi olacaklar ve erkeklerin geçtikleri bütün öğretim basamakların­dan geçeceklerdir. Kadınlar toplum yaşamında erkek­lerle birlikte yürüyerek birbirinin yardımcısı ve destekçisi olacaklardır."
+    },
+    {
+        "id": 119,
+        "quote": "Komşularıyla ve bütün devletlerle iyi geçinmek, Türkiye siyasetinin esasıdır."
+    },
+    {
+        "id": 120,
+        "quote": "Kapitülasyonların hiçbir kısmına istisnayı kabul etmiyoruz. Adli, mali veya askeri kapitülasyonların hiçbirini tanımıyoruz."
+    },
+    {
+        "id": 121,
+        "quote": "Kızlarımızın vatan ve milletin yüksek menfaatlerini savunup koruyabilecek kabiliyette yetiştirilmesi milli eğitimde esas tutulmalıdır. Ve kız çocuklarımıza entelektüel yetkinlik kazandırılması elzemdir. Türk kadınının esasen dehaya sahip olduğuna şüphe yoktur. Türk kadınları memleketin kaderini millet namına idare eden siyasi zümreye dahil olmak arzusunu belirtmiştir. Dolayısıyla kadınlarımızı hiçbir vatandaşlık vazifesinden uzak tutamayız. Çünkü hakların tümü vazifelerden doğar."
+    },
+    {
+        "id": 122,
+        "quote": "Komünizm içtimai bir meseledir. Memleketimizin içtimai şeraiti, dinî ve millî ananelerinin kuvveti, Rusya'daki komünizmin bizce tatbikine müsait olmadığı kanaatini teyit eder bir mahiyettedir. Binaenaleyh bizim Ruslarla olan münasebet ve muhâdenetimiz ancak iki müstakil devletin ittihat ve ittifak esaslarıyla alakadardır."
+    },
+    {
+        "id": 123,
+        "quote": "Köylü, hepimizin velinimetidir. Bu necip unsurun refahını düşüneceğiz."
+    },
+    {
+        "id": 124,
+        "quote": "Kültür işlerimiz üzerine, ulusça gönüllerimizin titrediğini bilirsiniz. Bu işlerin başında da Türk tarihini, doğru temelleri üstüne kurmak, öz Türk diline değeri olan genişliği vermek için candan çalışmakta olduğumuzu söylemeliyim. Bu çalışmaların göz kamaştırıcı verimlere erişeceğine şimdiden inanabiliriz."
+    },
+    {
+        "id": 125,
+        "quote": "Kültür sınavımızı, yeni ve modern esaslara göre, teşkilatlandırmaya durmadan devam ediyoruz. Türk Tarih ve Dil çalışmaları büyük inanla beklenilen ışıklı verimlerini şimdiden göstermektedir."
+    },
+    {
+        "id": 126,
+        "quote": "Majeste Kral'ın söylediklerini dikkatle dinledim. Benden, bir devlet başkanına kendi ülkesinden bir parçayı Almanlara terk etmesini tavsiye etmekliğimi mi istiyorlar? Benim gibi, bütün ömrü boyunca yurdunun bağımsızlığı ve bir karış toprağını başkasına vermemek için savaşan bir adam, inançlarına aykırı bir şeye nasıl aracı olur? Görüyorum ki Majeste Kral, beni ve karakterimi iyi tanımıyorlar!"
+    },
+    {
+        "id": 127,
+        "quote": "Makamı Saltanat aynı zamanda Makamı Hilâfet olmak itibariyle Padişahımız Cumhuru İslâmın da Reisidir."
+    },
+    {
+        "id": 128,
+        "quote": "Mal ve mülk, bana ağırlık veriyor. Bunları, soylu milletime geri vermekle büyük ferahlık duyuyorum. Zenginlikten ne çıkar; insanın serveti, kendi manevî kişiliğinde olmalıdır!"
+    },
+    {
+        "id": 129,
+        "quote": "Medenî olmayan insanlar, medenî olanların ayakları altında kalmaya mahkûmdurlar."
+    },
+    {
+        "id": 130,
+        "quote": "Memleket işlerinde, millet işlerinde, gerçek işlerde duyguya, hatıra, kardeşliğe ve dostluğa bakılmaz."
+    },
+    {
+        "id": 131,
+        "quote": "Memleket ve milletin kurtuluşu ve mutluluğu için çalışmaktan başka bir amacım yoktur. Bu, bir insan için yeterli bir sevinç ve zevk sağlar. Benimle beraber olan arkadaşlarım, bütün vatandaşlarım da aynı amacı izlemektedirler. Kişisel ve ailevî huzur ve mutluluğun, milletin huzur ve mutluluğuyla ayakta durduğunu, memleketin güvenlik ve dokunulmazlığıyla mümkün olduğunu gerçek ve ciddî bir şekilde anlamışlardır. Ben ve benimle beraber olanlar, hedefimizin yüceliğine, yolumuzun doğruluğuna eminiz. Bunda asla şüphe ve tereddüdümüz yoktur. Milletimizin, Türk milletinin yakın, uzak tarihine gereği kadar bilgimiz vardır. Geçmişin derslerini, bugünün ve geleceğin yaşamı için göz önünde tutmak dikkatinden mahrum değiliz. Yaptığımız hizmetlerle övünmüyoruz. Yapacağımız hizmetlerin, övünç sebebi olabileceği ümidiyle avunuyoruz."
+    },
+    {
+        "id": 132,
+        "quote": "Memleketimizi bir çember içine alıp dünya ile alakasız yaşayamayız. Aksine yükselmiş, ilerlemiş, medenî bir millet olarak medeniyet düzeyinin üzerinde yaşayacağız. Bu hayat ancak ilim ve fen ile olur. İlim ve fen nerede ise oradan olacağız ve her millet ferdinin kafasına koyacağız. İlim ve fen için kayıt ve şart yoktur."
+    },
+    {
+        "id": 133,
+        "quote": "Millet hakimiyetini almıştır ve isyan ederek almıştır. Alınmış olan hakimiyet hiçbir sebep ve suretle terk ve iade edilemez. Bu hâkimiyeti tekrar geri alabilmek için, istimal edilmiş olan vesaiti kullanmak lazımdır. "
+    },
+    {
+        "id": 134,
+        "quote": "Millete anlattım ki İslâm-şümûl bir devlet tesis etmek vazifesiyle mükellef tahayyül edilen bir halifenin vazifesini ifa edebilmesi için, Türkiye Devleti ve onun bir avuç nüfusu, halifenin emrine tâbi tutulamaz. Millet, buna razı olamaz! Türkiye halkı bu kadar azîm bir mes’ûliyeti, bu kadar gayr-i mantıkî bir vazifeyi deruhde edemez.\nMilletimiz, asırlarca, bu vâhi nokta-i nazardan hareket ettirildi. Fakat ne oldu?! Her gittiği yerde milyonlarca insan bıraktı. Yemen çöllerinde kavrulup mahvolan Anadolu evlâdlarının miktarını biliyor musunuz? dedim. Suriye’yi, Irak’ı muhafaza etmek için, Mısır’da barınabilmek için, Afrika’da tutunabilmek için ne kadar insan telef oldu, bunu biliyor musunuz?! Ve netice ne oldu görüyor musunuz?! dedim.\nHalifeye, dünyaya meydan okutmak ve onu umum İslâm umûruna tasarruf sahibi kılmak fikrinde olanlar, bu vazifeyi yalnız Anadolu halkından değil, onun sekiz on misli nüfustan mürekkeb olan büyük İslâm kütlelerinden talep etmelidir! Yeni Türkiye’nin ve yeni Türkiye halkının, artık, kendi hayat ve saadetinden başka düşünecek bir şeyi yoktur... Başkalarına verebilecek bir zerresi kalmamıştır! dedim.\nDiğer bir noktayı da halk nazarında tebârüz ettirmek için şu beyânâtta bulundum: Bir an için farzedelim ki, dedim, Türkiye, mevzu-i bahis vazifeyi kabul etsin... Bütün âlem-i İslâm’ı bir noktada tevhîd ederek sevk u idâre etmek gayesine yürüsün ve muvaffak dahi olsun! Pek âlâ ama taht-ı tâbiiyet ve idâremize almak istediğimiz milletler derlerse ki, bize büyük hizmetler ve muâvenetler yaptınız, teşekkür ederiz fakat biz müstakil kalmak istiyoruz. İstiklâl ve hâkimiyetimize kimsenin müdahalesini muvâfık görmeyiz! Biz kendi kendimizi sevk ve idâreye muktediriz!\nO halde, Türkiye halkının bütün mesâi ve fedakârlığı, sadece bir teşekkür ve dua almak için mi ihtiyâr olunacaktır?!\nGörülüyordu ki bir heva ü heves için, bir vehm ü hayal için, Türkiye halkını mahvetmek istiyorlardı. Hilâfet ve halifeye vazife ve salâhiyet vermek fikrinin mahiyeti bundan ibaretti."
+    },
+    {
+        "id": 135,
+        "quote": "Millete efendilik yoktur; hizmet etme vardır. Bu millete hizmet eden, onun efendisi olur."
+    },
+    {
+        "id": 136,
+        "quote": "Milletimizin siyasî, sosyal hayatında, milletimizin fikri eğitiminde rehberimiz ilim ve teknik olacaktır."
+    },
+    {
+        "id": 137,
+        "quote": "Milletimizin yüksek karakterini, yorulmaz çalışkanlığını, doğuştan zekâsını, ilme bağlılığını, güzel sanatlara sevgisini, millî birlik duygusunu sürekli olarak ve her türlü araç ve tedbirlerle besleyerek geliştirmek millî ülkümüzdür. Türk milletine çok yaraşan bu ülkü, onu bütün insanlığa gerçek huzurun temini yolunda kendine düşen uygar vazifeyi yapmakta başarıya ulaştıracaktır."
+    },
+    {
+        "id": 138,
+        "quote": "Milletin irade ve emeline uymayanların talihi hüsrandır, izmihlâldir."
+    },
+    {
+        "id": 139,
+        "quote": "Millî emeller, millî irade yalnız bir şahsın düşüncesinden değil, bütün millet fertlerinin arzularının, emellerinin birleşmesinden ibarettir."
+    },
+    {
+        "id": 140,
+        "quote": "Millî hâkimiyet uğrunda canımı vermek, benim için vicdan ve namus borcu olsun."
+    },
+    {
+        "id": 141,
+        "quote": "Millî hedef belli olmuştur. Ona ulaşacak yolları bulmak zor değildir. Önemli olan, çetin olan o yollar üzerinde çalışmaktır. Denebilir ki hiçbir şeye muhtaç değiliz. Yalnız tek bir şeye çok ihtiyacımız vardır: Çalışkan olmak. Toplumsal hastalıklarımızı incelersek temel olarak bundan başka, bundan önemli bir hastalık keşfedemeyiz; hastalık budur. O halde ilk işimiz bu hastalığı esaslı bir şekilde tedavi etmektir. Milleti çalışkan yapmaktır. Servet ve onun doğal sonucu olan refah ve mutluluk, yalnız ve ancak çalışkanların hakkıdır."
+    },
+    {
+        "id": 142,
+        "quote": "Millî müdafaamızı, düşmanların bayrakları, babalarımızın ocakları üstünden çekilinceye kadar terk edemeyiz. İstanbul mabetleri etrafında düşman askerleri gezdikçe, öz vatan toprakları üstünden yabancı adamların ayakları çekilmedikçe biz mücadelemizde devam etmeye mecburuz."
+    },
+    {
+        "id": 143,
+        "quote": "Neş'eli olmayan insanlardan iki türlü şüphe edilir. Ya hastadır, yâhut o insanın başkalarına bildirmek istemediği bir kuruntusu vardır."
+    },
+    {
+        "id": 144,
+        "quote": "Ölmek isteyen bir milleti hiçbir kuvvet kurtaramaz. Türk milleti ölmek istemez; o, daima yaşayacaktır efendiler!"
+    },
+    {
+        "id": 145,
+        "quote": "Samimi ve meşru olmak şartıyla her fikre hürmet ederiz. Her kanaat bizce muhteremdir."
+    },
+    {
+        "id": 146,
+        "quote": "Siyasî, askerî zaferler ne kadar büyük olursa olsun, ekonomik zaferlerle taçlandırılmazlarsa kazanılacak başarılar yaşayamaz ve sürekli olamaz."
+    },
+    {
+        "id": 147,
+        "quote": "Tam bağımsızlık, bizim bugün üzerimize aldığımız görevin özüdür. Bu görev, bütün ulusa ve tarihe karşı yüklenilmiştir."
+    },
+    {
+        "id": 148,
+        "quote": "Tarih, Türk inkılâbını anlatırken, bunun bir kurtuluş olduğunu en başta söyleyecektir. Bu kurtuluşun çeşitli aşamaları içinde de, özellikle kadınların kurtulmasını anacaktır."
+    },
+    {
+        "id": 149,
+        "quote": "Tarih yazmak, tarih yapmak kadar mühimdir. Yazan yapana sadık kalmazsa değişmeyen hakikat, insanlığı şaşırtacak bir mahiyet alır."
+    },
+    {
+        "id": 150,
+        "quote": "Temel ilke, Türk milletinin haysiyetli ve şerefli bir millet olarak yaşamasıdır. Bu ilke, ancak tam bağımsızlığa sahip olmakla temin olunabilir. Ne kadar zengin ve refaha kavuşturulmuş olursa olsun bağımsızlıktan mahrum bir millet uygar insanlık karşısında uşak olmak durumundan yüksek bir davranışa layık olamaz."
+    },
+    {
+        "id": 151,
+        "quote": "Tüm Türk toprakları kurtulmadıkça durmayacağım."
+    },
+    {
+        "id": 152,
+        "quote": "Türk Cumhuriyeti'nin en esaslı prensiplerinden biri olan yurtta barış, dünyada barış gayesi, insaniyetin ve medeniyetin refah ve ilerlemesinde en esaslı etken olsa gerektir. Buna elimizden geldiği kadar hizmet etmiş ve etmekte bulunmuş olmak bizim için övünülecek bir harekettir."
+    },
+    {
+        "id": 153,
+        "quote": "Türk Hükûmeti'nin ilk amacı, halka hürriyet ve mutluluk vermek, askerlerimize olduğu kadar, sivil halkımıza da iyi bakmaktır."
+    },
+    {
+        "id": 154,
+        "quote": "Türkiye Cumhuriyeti'nin temeli kültürdür. Kültür, okumak, anlamak, görebilmek, görebildiğinden mana çıkarmak, intibah almak, düşünmek, zekayı terbiye etmektir."
+    },
+    {
+        "id": 155,
+        "quote": "Türk dilinin sadeleştirilmesi, zenginleştirilmesi ve kamuoyuna bunların benimsetilmesi için her yayın aracından faydalanmalıyız. Her aydın hangi konuda olursa olsun yazarken buna dikkat edebilmeli, konuşma dilimizi ise ahenkli, güzel bir hale getirmeliyiz."
+    },
+    {
+        "id": 156,
+        "quote": "Türk esaret kabul etmeyen bir millettir. Türk milleti esir olmamıştır."
+    },
+    {
+        "id": 157,
+        "quote": "Türk gençliği gayeye, bizim yüksek idealimize durmadan, yorulmadan yürüyecektir. Biz de bunu görmekle bahtiyar olacağız."
+    },
+    {
+        "id": 158,
+        "quote": "Türk milleti çok büyük olaylarla ispat etti ki yeniliksever ve inkılapçı bir millettir."
+    },
+    {
+        "id": 159,
+        "quote": "Türk milleti, halk idaresi olan cumhuriyetle idare olunur bir devlettir. Türk Devleti laiktir. Her reşit dinini seçmekte serbesttir."
+    },
+    {
+        "id": 160,
+        "quote": "Türk milletinin dili Türkçedir. Türk dili dünyada en güzel, en zengin ve en kolay olabilecek bir dildir. Onun için her Türk, dilini çok sever ve onu yükseltmek için çalışır... Türk dili Türk milleti için kutsal bir hazinedir. Çünkü Türk milleti geçirdiği sayısız felaketler içinde ahlâkının, geleneklerinin, hatıralarının, çıkarlarının, kısaca bugün kendi milliyetini yapan her şeyin dili sayesinde korunduğunu görüyor. Türk dili Türk milletinin kalbidir, zihnidir."
+    },
+    {
+        "id": 161,
+        "quote": "...Türk milletinin müşterek görünen bir hali daha vardır. Hakikaten dikkat olunursa, Türklerin aşağı yukarı hep ahlâkları birbirine benzer. Bu yüksek ahlâk hiçbir milletin ahlâkına benzemez. Ahlâkın, millet teşkilinde yeri çok büyüktür, mühimdir. Bu ehemmiyeti iyice anlamak için, ahlâk hakkında birkaç söz söylemek fazla olmaz. Ahlâk dediğim zaman, ahlâk kitaplarında yazılı olan nasihatleri murat etmiyorum zira ahlâklılık diye yaptığımız işler ve yapmaktan sakındığımız işler; kitaplarda yazılı olan veya birtakım ahlâk hocalarının tavsiye ettikleri şeylerden daha evveldir ve o sözlerden, o nasihatlerden ayrı olarak, onlara asla kulak vermeyerek insanlar tarafından yapılmaktadır. İş, nazariyatın hakimi, amiridir. Ahlâk kaidelerinin nasıl yapılması lâzım geleceği, ahlâklılık olduğu anlaşılan işler görüldükten, tecrübe edildikten sonra anlaşılır."
+    },
+    {
+        "id": 162,
+        "quote": "Türk milletinin tabiat ve âdetlerine en uygun idare Cumhuriyet idaresidir."
+    },
+    {
+        "id": 163,
+        "quote": "Türk milletinin yürümekte olduğu ilerleme ve uygarlık yolunda, elinde ve kafasında tuttuğu meşale pozitif bilimdir."
+    },
+    {
+        "id": 164,
+        "quote": "Türk milliyetçiliği, ilerleme ve gelişme yolunda milletlerarası temas ve ilişkilerde, bütün çağdaş milletlere paralel ve onlarla bir ahenkte yürümekle beraber, Türk toplumunun hususî seciyelerini ve başlı başına müstakil hüviyetini korumaktır."
+    },
+    {
+        "id": 165,
+        "quote": "Türk Tarih ve Dil kurumlarının, Türk milli varlığını aydınlatan çok kıymetli ve önemli birer ilim kurumu mahiyetini aldığını görmek hepimizi sevindirici bir hadisedir. Tarih Kurumu, yaptığı kongre, kurduğu sergi, yurt içindeki kazılar ortaya çıkardığı eserlerle şimdiden bütün ilim dünyasına kültürel vazifesini yerine getirmeye başlamış bulunuyor."
+    },
+    {
+        "id": 166,
+        "quote": "Türkiye Cumhuriyeti anlamınca kadın, bütün Türk tarihinde olduğu gibi bugün de en muhterem mevkide, her şeyin üstünde yüksek ve şerefli bir mevcudiyettir."
+    },
+    {
+        "id": 167,
+        "quote": "Türkiye Devletinin bağımsızlığı mukaddestir. O, ebediyen sağlanmış ve korunmuş olmalıdır."
+    },
+    {
+        "id": 168,
+        "quote": "Türkiye emperyalizme karşı mücadelesiyle iyi örnek olmuşsa bundan çok büyük mutluluk duyacağım."
+    },
+    {
+        "id": 169,
+        "quote": "Türkiye halkı, asırlardan beri hür ve bağımsız yaşamış ve bağımsızlığı bir yaşama gereği saymış bir milletin kahraman evlatlarıdır. Bu millet, bağımsızlıktan uzak yaşamamıştır, yaşayamaz ve yaşamayacaktır."
+    },
+    {
+        "id": 170,
+        "quote": "Türkler, bütün uygar milletlerin dostlarıdır."
+    },
+    {
+        "id": 171,
+        "quote": "Türk'ün haysiyet ve onur ve kabiliyeti çok yüksek ve büyüktür. Böyle bir millet esir yaşamaktansa yok olsun daha iyidir. Bundan ötürü, ya bağımsızlık, ya ölüm!"
+    },
+    {
+        "id": 172,
+        "quote": "Ulusun yaşamı tehlikeyle karşı karşıya kalmadıkça savaş bir cinayettir."
+    },
+    {
+        "id": 173,
+        "quote": "Uygarlık yolunda başarı yenileşmeye bağlıdır. Sosyal hayatta, iktisadi hayatta, ilim ve fen sahasında başarılı olmak için yegane gelişme ve ilerleme yolu budur."
+    },
+    {
+        "id": 174,
+        "quote": "Uygarlık yolunda yürümek ve başarılı olmak, yaşamın şartıdır. Bu yol üzerinde duraklayanlar ya da yol üzerinde ileri değil, geriye bakmak bilgisizliği ve aymazlığında bulunanlar, genel uygarlığın coşkun seli altında boğulmaya mahkûmdur."
+    },
+    {
+        "id": 175,
+        "quote": "Vicdan hürriyeti mutlak ve taarruz edilmez, ferdin tabi haklarının en mühimlerinden tanınmalıdır."
+    },
+    {
+        "id": 176,
+        "quote": "Yabancı bir devletin himaye ve desteğini kabul etmek, insanlık özelliklerinden mahrumiyeti, beceriksizlik ve miskinliği itiraftan başka bir şey değildir."
+    },
+    {
+        "id": 177,
+        "quote": "Yaptıklarımızı asla kâfi görmeyiz. Çünkü daha çok ve daha büyük işler yapmak mecburiyetinde ve azmindeyiz. Yurdumuzu dünyanın en mamur ve en medenî memleketleri seviyesine çıkaracağız. Milletimizi en geniş refah vasıta ve kaynaklarına sahip kılacağız. Millî kültürümüzü, muasır medeniyet seviyesinin üstüne çıkaracağız."
+    },
+    {
+        "id": 178,
+        "quote": "Yaşam kısadır. Bunu kutlama ve taçlandırma için, insanların genellikle uygun gördükleri yol evliliktir. Bu genel kurala uymayanlar, pek sınırlı ve benzerleri azdır. Bu kural dışını oluşturanlar da, esas kuralın fenalığından değil ve fakat tersine bu güzel kurala inanmadan kendilerini alıkoyan sebeplerin etkisinde kaldıklarından, belki evlenmiş olmaktan korktuklarından fazla mutsuz olanlardır. İnkâr edilmez bir gerçektir ki insanlar, yaşam, kadınsız olamaz. Evli olanlar, yaşamın vazgeçilmezini temin etmiş ve bütün düşünce ve isteklerini bir maksat, bir meslek, bir amaca yöneltmiş olur. Ancak talih, eşlerin ruh ve kalplerini iyi geçindirsin!"
+    },
+    {
+        "id": 179,
+        "quote": "Yeni evlenen bir kişinin gönlü yaşam, aşk ve mutluluk duygularıyla doludur. Bu, en değerli bir zamandır. İnsanlar, yaşamında bu parlak ve sevinçli dakikaları, ölünceye kadar hep aynı şekilde duygulanarak pek önemli ve yaşamı için tarihsel bir olay olarak anar. Ben, bunu denemedim; fakat, az çok yaşamı ve insanları incelediğim için bu sonucu buldum. Yaşamın çeşitli yönlerinden birkaçını görenler, evlendikten sonra keşfedilmemiş yönlerini de ister istemez gözlemlerler. Bu gözlemleme, pek tatlı olabildiği gibi pek acı da olabilir."
+    },
+    {
+        "id": 180,
+        "quote": "Yoksul kadın, hiçbir şeyi olmayan kadın anlamında alınmıştır. Halbuki kadın denilen varlık, bizatihi yüksek bir varlıktır. Onun yoksulluğu olamaz. Kadına yoksul demek, onun bağrından kopup gelen bütün insanlığın yoksulluğu demektir."
+    },
+    {
+        "id": 181,
+        "quote": "Yüksek bir insan cemiyeti olan Türk milletinin tarihi bir vasfı da, güzel sanatları sevmek ve onda yükselmektir. Bunun içindir ki, milletimizin yüksek karakterini, yorulmaz çalışkanlığını, fıtri zekâsını, ilme bağlılığını, güzel sanatlara sevgisini, milli birlik duygusunu mütemadiyen ve her türlü vasıta ve tedbirlerle besleyerek inkişaf ettirmek milli ülkümüzdür."
+    },
+    {
+        "id": 182,
+        "quote": "Yüksek ve devrimci bir kültür düzeyine varmak için, önümüzdeki yıllarda daha çok emek vereceğiz. Müspet bilimlerin temellerine dayanan, güzel sanatları seven, düşün eğitiminde olduğu denli beden eğitiminde yeteneği artmış ve yükselmiş olan erdemli, güçlü bir kuşak yetiştirmek, ana siyasamızın açık dileğidir."
+    },
+    {
+        "id": 183,
+        "quote": "Zamanında kitaplar karıştırdım. Hayat hakkında filozofların ne dediklerini anlamak istedim. Bir kısmı her şeyi kara görüyordu. “Mademki hiçiz ve sıfıra varacağız, dünyadaki geçici ömür sırasında sevinç ve mutluluğa yer bulunmaz” diyorlardı. Başka kitaplar okudum, bunları daha akıllı adamlar yazmışlardı. Diyorlardı ki: “Mademki sonu nasıl olsa sıfırdır, hiç olmazsa yaşadığımız sürece şen ve neşeli olalım.” Ben kendi karakterim bakımından ikinci hayat görüşünü beğeniyorum, fakat şu sınırlar içinde: Bütün insanlığın varlığını kendi şahıslarında gören adamlar zavallıdır. Besbelli ki, o adam birey sıfatı ile yok olacaktır. Herhangi bir kişinin, yaşadıkça memnun ve mutlu olması için gereken şey, kendisi için değil, kendisinden sonra gelecekler için çalışmaktır. Anlayışlı bir adam, ancak bu şekilde hareket edebilir. Hayatta tam zevk ve mutluluk, ancak gelecek nesillerin şerefi, varlığı, mutluluğu için çalışmakta bulunabilir..."
+    }    
+]
