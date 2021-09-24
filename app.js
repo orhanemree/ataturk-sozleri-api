@@ -5,4 +5,7 @@ app.get("/", (req, res) => {
     res.status(200).json(quotes[Math.floor(Math.random() * quotes.length)]);
 });
 
-app.listen(8080);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.warn(`App listening on http://localhost:${PORT}`);
+});
