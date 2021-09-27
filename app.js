@@ -1,5 +1,6 @@
 const app = require('express')();
 const quotes = require('./quotes.json');
+const cors = require("cors");
 
 app.use(cors());
 
