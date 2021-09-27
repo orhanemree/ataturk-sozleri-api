@@ -1,6 +1,8 @@
 const app = require('express')();
 const quotes = require('./quotes.json');
 
+app.use(cors());
+
 app.get("/", (req, res) => {
     res.status(200).json(quotes[Math.floor(Math.random() * quotes.length)]);
 });
