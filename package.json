@@ -1,13 +1,13 @@
 {
   "name": "ataturk-sozleri-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Atatürk'ün 180'den fazla sözü ile oluşturulmuş bir JSON API.",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Orhan Emre",
+  "license": "Apache-2.0 License",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1"
