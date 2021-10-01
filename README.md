@@ -5,7 +5,7 @@ Atatürk'ün 180'den fazla sözü ile oluşturulmuş bir JSON API.
 ## Kullanım
 
 ```bash
-GET https://github.com/orhanemree/ataturk-sozleri-api
+GET https://ataturk-sozleri-api.herokuapp.com/
 ```
 
 ## Örnek Sonuç
