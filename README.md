@@ -8,6 +8,12 @@ Atatürk'ün 180'den fazla sözü ile oluşturulmuş bir JSON API.
 GET https://ataturk-sozleri-api.herokuapp.com/
 ```
 
+### CURL ile:
+
+```bash
+curl https://ataturk-sozleri-api.herokuapp.com/
+```
+
 ## Örnek Sonuç
 ```json
 {
