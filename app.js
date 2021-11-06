@@ -3,7 +3,7 @@ const quotes = require('./quotes.json');
 const cors = require("cors");
 const favicon = require("serve-favicon");
 
-app.use(favicon(__dirname + "/public/favicon.png"));
+app.use(favicon(__dirname + "/public/favicon.ico"));
 app.use(cors());
 
 app.get("/", (req, res) => {
